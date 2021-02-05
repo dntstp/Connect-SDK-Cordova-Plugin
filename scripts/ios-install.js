@@ -22,7 +22,7 @@ if (!isMac) {
 	var paths = {
 		"ConnectSDK_Framework": "http://github.com/ConnectSDK/Connect-SDK-iOS/releases/download/1.6.0/ConnectSDK.framework.zip",
 		"ConnectSDK_Version": "1.6.0",
-		"FlingSDK_URL": "https://s3-us-west-1.amazonaws.com/amazon-fling/AmazonFling-SDK.zip",
+		"FlingSDK_URL": "https://amzndevresources.com/fling/sdk/AmazonFling-SDK.zip",
 		"AmazonFling_Framework": "./csdk_tmp/ios-sdk/frameworks/AmazonFling.framework",
 		"Bolts_Framework": "./csdk_tmp/ios-sdk/frameworks/third_party_framework/Bolts.framework",
 		"GoogleCastSDK_URL": "https://developers.google.com/cast/downloads/GoogleCastSDK-2.7.1-Release-ios-default.zip",
